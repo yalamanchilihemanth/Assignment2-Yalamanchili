@@ -11,4 +11,12 @@ In this table I am introducing some good countries to visit during the summmer b
 |USA|To visit Niagara waterfalls|3|
 |Maldives|To visit Island|10|
 
+----
+> “Nobody reaches anywhere by believing.” -- Osho
+
+> “It's always darkest before you're blinded by the light” -- Eddie Mumford
+
+----
+
+
 

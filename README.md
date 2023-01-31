@@ -2,7 +2,7 @@
 # Hemanth Yalamanchili
 ###### Cricket
 
-Team skills. Social skills **such as cooperation,**communication and **learning how to cope** with winning and losing.
+Team skills. Social skills **such as cooperation** communication and **learning how to cope** with winning and losing.
 -------
 # ORDERED LIST
 My favourite team is **RCB**

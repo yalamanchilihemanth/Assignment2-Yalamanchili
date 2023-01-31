@@ -18,5 +18,41 @@ In this table I am introducing some good countries to visit during the summmer b
 
 ----
 
+### Code Fencing
+
+> creating the border sizes using CSS
+
+[Link of the code that direct to Stackoverflow](https://stackoverflow.design/product/components/code-blocks/)
+
+```.s-input,
+.s-textarea {
+    -webkit-appearance: none;
+    width: 100%;
+    margin: 0;
+    padding: 0.6em 0.7em;
+    border: 1px solid var(--bc-darker);
+    border-radius: 3px;
+    background-color: var(--white);
+    color: var(--fc-dark);
+    font-size: 13px;
+    font-family: inherit;
+    line-height: 1.15384615;
+    scrollbar-color: var(--scrollbar) transparent;
+}
+@supports (-webkit-overflow-scrolling: touch) {
+    .s-input,
+    .s-textarea {
+        font-size: 16px;
+        padding: 0.36em 0.55em;
+    }
+    .s-input::-webkit-input-placeholder,
+    .s-textarea::-webkit-input-placeholder {
+        line-height: normal !important;
+    }
+}```
+
+[Link that direct to Stackoverflow code](https://stackoverflow.design/product/components/code-blocks/)
+
+
 
 

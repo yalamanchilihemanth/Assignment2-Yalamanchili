@@ -49,7 +49,8 @@ In this table I am introducing some good countries to visit during the summmer b
     .s-textarea::-webkit-input-placeholder {
         line-height: normal !important;
     }
-}```
+}
+```
 
 [Link that direct to Stackoverflow code](https://stackoverflow.design/product/components/code-blocks/)
 
